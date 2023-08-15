@@ -1,1 +1,2 @@
-# CodSoft_Internship
+# CodSoft
+Internship on Java programming
